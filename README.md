@@ -10,8 +10,8 @@ const info = {
 ------------------------------------------
   Semestre: 2025-2,
   Profesor: Sergio Iván López Ortega,
-  Ayudante:	Johan Jesús González Navarrete,
-  Ayudante:	Linda Alicia López Díaz
+  Ayudante: Johan Jesús González Navarrete,
+  Ayudante: Linda Alicia López Díaz
 };
 
 ```
