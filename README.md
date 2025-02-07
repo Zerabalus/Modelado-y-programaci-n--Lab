@@ -6,10 +6,9 @@ Ephi@FC: ~/Tercer Semestre $ neofetch
 ```
 ```javascript
 const info = {
-  Materia: "Modelado y Programación",
+  Materia: "Probabilidad",
 ------------------------------------------
   Semestre: 2025-2,
-  Asignatura: Probabilidad,
   Profesor: Sergio Iván López Ortega,
   Ayudante:	Johan Jesús González Navarrete,
   Ayudante:	Linda Alicia López Díaz
